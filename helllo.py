@@ -1,1 +1,1 @@
-print("屁眼派對")
+print("La fête du trou du cul")
